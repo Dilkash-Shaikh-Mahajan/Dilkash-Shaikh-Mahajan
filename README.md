@@ -7,17 +7,3 @@ I am a MERN Stack Developer who is passionate about stuff like responsive design
 - 👋 My personal [blog site](https://dilkashshaikhmahajan.co.in/#blog)
 
 
-📅 **I'm Most Productive on Sunday** 
-
-**I Mostly Code in Jupyter Notebook** 
-
-```text
-Jupyter Notebook         10 repos            ███████████████░░░░░░░░░░   71.43% 
-C++                      2 repos             ███░░░░░░░░░░░░░░░░░░░░░░   14.29% 
-HTML                     1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   7.14% 
-JavaScript               1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   7.14%
-
-```
-
-
-</details>
