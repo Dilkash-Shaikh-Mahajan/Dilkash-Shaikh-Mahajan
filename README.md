@@ -7,7 +7,7 @@ I am a MERN Stack Developer who is passionate about stuff like responsive design
 - 👋 My personal [blog site](https://dilkashshaikhmahajan.co.in/#blog)
 
 
-## Notes
+## MERN Stack Development?
 
 - **M** = MongoDB (We'll use Mongoose to make it easier for Node.js to work with MongoDB, and we'll use MongoDB Atlas = MongoDB database, but cloud).
 - **E** = Express (makes it easier to work with Node.js. We'll use `cors` middleware to access other servers outside our server).
