@@ -6,15 +6,6 @@ I am a MERN Stack Developer who is passionate about stuff like responsive design
 - 🌐 Visit my [porfolio website](https://dilkashshaikhmahajan.co.in/) for complete background and contact.
 - 👋 My personal [blog site](https://dilkashshaikhmahajan.co.in/#blog)
 
----
-<details open>
- <summary> 😇 <b>My Github Stats</b>: </summary>
-<br>
-<p align = "center">
-  <img src = "https://github-readme-stats.vercel.app/api?username=pr2tik1&show_icons=true&theme=tokyonight&line_height=27">
-  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=pr2tik1&hide=css,java,html&theme=tokyonight">
-</p>
-</details>
 
 📅 **I'm Most Productive on Sunday** 
 
