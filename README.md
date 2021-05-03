@@ -1,15 +1,59 @@
-<a href="https://twitter.com/Dilkashmahajan7" target="_blank" rel="nofollow"><img align="right" alt="Dilkash Shaikh Mahajan Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" /></a><a href="https://www.linkedin.com/in/dilkash-shaikh-mahajan/" target="_blank" rel="nofollow"><img align="right" alt="Dilkash Shaikh Mahajan Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /></a><a href="https://www.instagram.com/dilkash_shaikh_mahajan/" target="_blank" rel="nofollow"><img align="right" alt="Dilkash Shaikh Mahajan Insta" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" /></a>
+### Hello World, I'm Dilkash  👋
 
-## Hi 👋 I am Dilkash 
-I am a MERN Stack Developer who is passionate about stuff like responsive design and Asynchronous internet. Few technology that I enjoy working in are ReactJS, MongoDB, NodeJS, HTML, and Express(NodeJS Framework). I am actively looking for opportunities in MERN Stack Development. Recently, I have just started with tech-blogging!
-- 👨🏽‍💻 Currently working, learning and growing my skillset in MERN Stack Development.
-- 🌐 Visit my [porfolio website](https://dilkashshaikhmahajan.co.in/) for complete background and contact.
-- 👋 My personal [blog site](https://dilkashshaikhmahajan.co.in/#blog)
+ <img align="right" alt="GIF" src="https://github.com/Dilkash-Shaikh-Mahajan/Dilkash-Shaikh-Mahajan/blob/main/full-stack-development.gif?raw=true" width="500" height="320" />   
 
 
-## MERN Stack Development?
+## I'm a MERN Stack Developer, Computer Science Engineer and Mentor!!
+- ✍ You can find my projects here [portfolio]
+- 🌱 I’m currently learning MERN Stack and Next.js
+- 👯 I’m looking to collaborate on open source
+- 💬 Ask me about ... Anything
+- ⚡ Fun fact: I speak 3 languages ( English, Hindi, Marathi)
 
-- **M** = MongoDB (We'll use Mongoose to make it easier for Node.js to work with MongoDB, and we'll use MongoDB Atlas = MongoDB database, but cloud).
-- **E** = Express (makes it easier to work with Node.js. We'll use `cors` middleware to access other servers outside our server).
-- **R** = React (for the frontend. We'll use `bootstrap` for styling, `react-router-dom` for React routes, `react-datepicker` for React Datepicker component, and `axios` to connect to the backend).
-- **N** = Node.js (for the server. We'll use `dotenv` to load environment variables from an .env file into `process.env`, and `nodemon` to make the app auto-restart when you edit/save files).
+
+### Talk with me, I am kinda awesome:
+[<img align="left" alt="Dilkash Shaikh Mahajan | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img alt="Dilkash Shaikh Mahajan | Youtube " width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/youtube.svg" />][youtube]
+[<img width="22px" alt="Dilkash Shaikh Mahajan | Instagram" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/instagram.svg" />][instagram]
+<br />
+
+### Languages and Tools:
+
+[<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />]
+[<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />]
+[<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />]
+[<img align="left" alt="CSharp" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/csharp/csharp.png" />]
+[<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />]
+[<img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />]
+[<img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />]
+[<img align="left" alt="python" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />]
+[<img align="left" alt="flask" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flask/flask.png" />]
+[<img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />]
+[<img align="left" alt="postgreSQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png" />]
+[<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />]
+[<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />]
+[<img align="left" alt="Docker" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png" />]
+[<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />]
+
+<br />
+<br />
+---
+
+<details>
+  <summary>:zap: GitHub Stats</summary>
+
+  <img align="left" alt="Anna's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Dilkash-Shaikh-Mahajan&show_icons=true&hide_border=true" />
+
+</details>
+
+<details>
+  <summary>:zap: Most Used Languages</summary>
+
+<img align="left" alt="Anna's GitHub Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dilkash-Shaikh-Mahajan" />
+
+</details>
+
+[youtube]: https://www.youtube.com/channel/UCCEA48bYtLo6CGWJPa50lMg
+[instagram]: https://www.instagram.com/dilkash_shaikh_mahajan7/
+[linkedin]: https://www.linkedin.com/in/dilkash-shaikh-mahajan/
+[portfolio]: https://dilkashshaikhmahajan.co.in/
