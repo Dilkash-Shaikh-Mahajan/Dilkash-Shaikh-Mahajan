@@ -3,7 +3,7 @@
  <img align="right" alt="GIF" src="https://github.com/Dilkash-Shaikh-Mahajan/Dilkash-Shaikh-Mahajan/blob/main/full-stack-development.gif?raw=true" width="500" height="320" />   
 
 
-## [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23000000BC&size=25&center=true&lines=A+MERN+Stack+Developer;Computer+Science+Engineer;Freelancer)](https://git.io/typing-svg)
+## [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23000000BC&size=25&lines=A+MERN+Stack+Developer;Computer+Science+Engineer;Freelancer)](https://git.io/typing-svg)
 - ✍ You can find my projects here [portfolio]
 - 🌱 I’m currently learning MERN Stack and Next.js
 - 👯 I’m looking job/intern in MERN Stack and collaborate on open source 
