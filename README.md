@@ -1,6 +1,6 @@
 ### Hello World, I'm Dilkash  👋
 
- <img align="right" alt="GIF" src="https://github.com/Dilkash-Shaikh-Mahajan/Dilkash-Shaikh-Mahajan/blob/main/full-stack-development.gif?raw=true" width="450" height="320" />   
+ <img align="right" alt="GIF" src="https://github.com/Dilkash-Shaikh-Mahajan/Dilkash-Shaikh-Mahajan/blob/main/full-stack-development.gif?raw=true" width="400" height="320" />   
 
 
 ## [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23000000BC&size=20&lines=A+MERN+Stack+Developer;Computer+Science+Engineer;Freelancer)](https://git.io/typing-svg)
