@@ -57,4 +57,4 @@ Visitor:- <br /> ---
 [youtube]: https://www.youtube.com/channel/UCCEA48bYtLo6CGWJPa50lMg
 [instagram]: https://www.instagram.com/dilkash_shaikh_mahajan7/
 [linkedin]: https://www.linkedin.com/in/dilkash-shaikh-mahajan/
-[portfolio]: https://dilkashshaikhmahajan.co.in/
+[portfolio]: https://dilkashshaikhmahajan.herokuapp.com/
