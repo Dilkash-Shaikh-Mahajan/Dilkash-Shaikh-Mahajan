@@ -1,60 +1,54 @@
-### Hello World, I'm Dilkash  👋
 
- <img align="right" alt="GIF" src="https://github.com/Dilkash-Shaikh-Mahajan/Dilkash-Shaikh-Mahajan/blob/main/full-stack-development.gif?raw=true" width="400" height="320" />   
+<h1 align="center">Hey folks🙌, I'm Dilkash Shaikh Mahajan💫</h1>
+
+![profile count](https://komarev.com/ghpvc/?username=Dilkash-Shaikh-Mahajan&color=green)&nbsp;
+### 🎓 A CSE Undergraduate at Anjuman College of Engineering and Technology Nagpur.
+- 🔭 I’m currently working on several MERN projects and advancing my full-stack skills with AWS Services.
+- 👯 I’m looking to collaborate on projects based on Full-Stack development.
+- 🤝 I’m looking for help with open source and job opportunities in the field of development.
+- 💬 Ask me about anything that you want to know.
+- 📫 How to reach me: [dilkashmahajan8@gmail.com](mailto:dilkashmahajan8@gmail.com).
 
 
-## [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23000000BC&size=20&lines=A+MERN+Stack+Developer;Computer+Science+Engineer;Freelancer)](https://git.io/typing-svg)
-- ✍ You can find my projects here [portfolio]
-- 🌱 I’m currently learning MERN Stack and Next.js
-- 👯 I’m looking job/intern in MERN Stack and collaborate on open source 
-- 💬 Ask me about ... Anything
-- ⚡ Fun fact: I speak 3 languages ( English, Hindi, Marathi)
+### 🛠 &nbsp;Languages
+ ![C](https://img.shields.io/badge/c-%2300599C.svg?style=plastic&logo=c&logoColor=white)&nbsp;
+ ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=plastic&logo=c%2B%2B&logoColor=white)&nbsp;
+ ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white)&nbsp;
+ ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=plastic&logo=css3&logoColor=white) &nbsp;
+ ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E)&nbsp;
+ ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=plastic&logo=jquery&logoColor=white)&nbsp;
+ ![JWT](https://img.shields.io/badge/JWT-black?style=plastic&logo=JSON%20web%20tokens) &nbsp;
+ ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=plastic&logo=node.js&logoColor=white) &nbsp;
+ ![Socket.io](https://img.shields.io/badge/Socket.io-black?style=plastic&logo=socket.io&badgeColor=010101)
 
 
-### Talk with me, I am kinda awesome:
-[<img align="left" alt="Dilkash Shaikh Mahajan | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img alt="Dilkash Shaikh Mahajan | Youtube " width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/youtube.svg" />][youtube]
-[<img width="22px" alt="Dilkash Shaikh Mahajan | Instagram" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/instagram.svg" />][instagram]
-<br />
 
-### Languages and Tools:
+### 🛠 &nbsp;Library & Frameworks
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap&logoColor=563D7C)&nbsp;
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=plastic&logo=react&logoColor=%2361DAFB)&nbsp;
+![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=plastic&logo=redux&logoColor=white)&nbsp;
+![MUI](https://img.shields.io/badge/MUI-%230081CB.svg?style=plastic&logo=material-ui&logoColor=white) &nbsp;
+![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=plastic&logo=express&logoColor=%2361DAFB) 
 
-[<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][portfolio]
-[<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />][portfolio]
-[<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />][portfolio]
-[<img align="left" alt="CSharp" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />][portfolio]
-[<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />][portfolio]
-[<img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />][portfolio]
-[<img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />][portfolio]
-[<img align="left" alt="python" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />][portfolio]
-[<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />][portfolio]
-[<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />][portfolio]
-[<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />][portfolio]
 
-<br />
-<br/>
-Visitor:- <br /> ---
+### 🛠 &nbsp;Deployed
+ ![Render](https://img.shields.io/badge/render-%23000000.svg?style=plastic&logo=render&logoColor=#00C7B7) 
+![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=plastic&logo=vercel&logoColor=white)&nbsp;
+ ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=plastic&logo=netlify&logoColor=#00C7B7) 
 
-<img src="https://badges.pufler.dev/visits/Dilkash-Shaikh-Mahajan/Dilkash-Shaikh-Mahajan" align="left" alt="Visitors"/>
 
-<br />
----
+### 🛠 &nbsp;DataBase
+ ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=plastic&logo=mongodb&logoColor=white) &nbsp;
+ ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=plastic&logo=mysql&logoColor=white)
 
-<details>
-  <summary>:zap: GitHub Stats</summary>
 
-  <img align="left" alt="Anna's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Dilkash-Shaikh-Mahajan&show_icons=true&hide_border=true" />
+### 🛠 &nbsp;Technologies
+![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
+![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
+![Linux](https://img.shields.io/badge/-Linux-000?&logo=Linux)
 
-</details>
 
-<details>
-  <summary>:zap: Most Used Languages</summary>
+# 📊 GitHub Stats:
 
-<img align="left" alt="Anna's GitHub Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dilkash-Shaikh-Mahajan" />
 
-</details>
-
-[youtube]: https://www.youtube.com/channel/UCCEA48bYtLo6CGWJPa50lMg
-[instagram]: https://www.instagram.com/dilkash_shaikh_mahajan7/
-[linkedin]: https://www.linkedin.com/in/dilkash-shaikh-mahajan/
-[portfolio]: https://dilkashshaikhmahajan.herokuapp.com/
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Dilkash-Shaikh-Mahajan&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
