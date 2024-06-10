@@ -1,7 +1,6 @@
 
 <h1 align="center">Hey folks🙌, I'm Dilkash Shaikh Mahajan💫</h1>
 
-![profile count](https://komarev.com/ghpvc/?username=Dilkash-Shaikh-Mahajan&color=green)&nbsp;
 ### 🎓 A CSE Undergraduate at Anjuman College of Engineering and Technology Nagpur.
 - 🔭 I’m currently working on several MERN projects and advancing my full-stack skills with AWS Services.
 - 👯 I’m looking to collaborate on projects based on Full-Stack development.
@@ -47,6 +46,10 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
 ![Linux](https://img.shields.io/badge/-Linux-000?&logo=Linux)
 
+
+
+
+![profile count](https://komarev.com/ghpvc/?username=Dilkash-Shaikh-Mahajan&color=green)&nbsp;
 
 # 📊 GitHub Stats:
 
