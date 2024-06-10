@@ -39,11 +39,8 @@
 ![Linux](https://img.shields.io/badge/-Linux-000?&logo=Linux)
 
 
-### 🛠 &nbsp;Profile View
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dilkash-shaikh-mahajan&show_icons=true&locale=en&layout=compact" alt="dilkash-shaikh-mahajan" /></p>
 
-![profile count](https://komarev.com/ghpvc/?username=Dilkash-Shaikh-Mahajan&color=green)&nbsp;
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dilkash-shaikh-mahajan&show_icons=true&locale=en" alt="dilkash-shaikh-mahajan" /></p>
 
-## 📊 GitHub Stats:
-
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Dilkash-Shaikh-Mahajan&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dilkash-shaikh-mahajan&" alt="dilkash-shaikh-mahajan" /></p>
