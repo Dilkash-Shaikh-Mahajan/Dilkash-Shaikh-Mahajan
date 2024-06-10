@@ -38,6 +38,8 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
 ![Linux](https://img.shields.io/badge/-Linux-000?&logo=Linux)
 
+### 🛠 &nbsp;Profile View
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dilkash-shaikh-mahajan&show_icons=true&locale=en&layout=compact" alt="dilkash-shaikh-mahajan" /></p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dilkash-shaikh-mahajan&show_icons=true&locale=en&layout=compact" alt="dilkash-shaikh-mahajan" /></p>
 
