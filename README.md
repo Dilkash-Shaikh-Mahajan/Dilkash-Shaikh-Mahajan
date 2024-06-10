@@ -47,11 +47,11 @@
 ![Linux](https://img.shields.io/badge/-Linux-000?&logo=Linux)
 
 
-
+### 🛠 &nbsp;Profile View
 
 ![profile count](https://komarev.com/ghpvc/?username=Dilkash-Shaikh-Mahajan&color=green)&nbsp;
 
-# 📊 GitHub Stats:
+## 📊 GitHub Stats:
 
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Dilkash-Shaikh-Mahajan&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
